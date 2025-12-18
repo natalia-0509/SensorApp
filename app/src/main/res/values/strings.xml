@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+
+    <string name="sensor_icon_desc">Ikona czujnika</string>
+
+    <!-- Lokalizacja / adres -->
+    <string name="location_text">Szerokość geograficzna: %1$.4f\nDługość geograficzna: %2$.4f\nCzas: %3$tr</string>
+    <string name="address_text">Adres:\n%1$s\nCzas: %2$tr</string>
+    <string name="no_location">Brak zapisanej ostatniej lokalizacji.</string>
+    <string name="location_permission_denied">Brak uprawnień do lokalizacji.</string>
+    <string name="service_not_available">Serwis geokodowania niedostępny.</string>
+    <string name="no_address_found">Nie znaleziono adresu dla tej lokalizacji.</string>
+
+    <string name="missing_sensor">Brak danego czujnika na urządzeniu.</string>
+</resources>
